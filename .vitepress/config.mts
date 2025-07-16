@@ -4,7 +4,16 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "VBot Documentation",
   description: "Official documentation for VBot",
-  head: [["link", { rel: "icon", type: "image/png", href: "/app-logo.png" }]],
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        type: "image/png",
+        href: "/vbot-document-web/app-logo.png",
+      },
+    ],
+  ],
   base: "/vbot-document-web/",
   themeConfig: {
     docFooter: {
