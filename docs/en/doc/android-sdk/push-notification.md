@@ -26,7 +26,7 @@ Mở file vừa tải về. Sao chép toàn bộ nội dung có trong file
 
 ## Trên Website VBot
 
-Dùng tài khoản Admin đăng nhập vào website [VBot.vn]()
+Dùng tài khoản Admin đăng nhập vào website [VBot.vn](https://vbot.vn)
 
 Truy cập vào <span class="highlight-text"> Cài đặt </span> -> <span class="highlight-text"> SDK Mobile Push Credentials </span>
 
