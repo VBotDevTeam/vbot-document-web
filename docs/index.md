@@ -4,7 +4,7 @@ title: Redirecting...
 head:
   - - meta
     - http-equiv: refresh
-      content: 0;url=/vi/
+      content: 0;url=/vbot-document-web/vi/
 ---
 
 <p style="text-align: center; margin-top: 2rem;">
