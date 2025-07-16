@@ -6,6 +6,7 @@ export default defineConfig({
   title: "VBot",
   description: "VBot tổng đài AI đa tính năng!",
   titleTemplate: "Document",
+  base: "/vbot-document-web/",
   head: [["link", { rel: "icon", type: "image/png", href: "/app-logo.png" }]],
   locales: {
     vi: {
