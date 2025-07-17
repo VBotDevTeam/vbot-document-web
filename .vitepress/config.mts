@@ -14,7 +14,7 @@ export default defineConfig({
       },
     ],
   ],
-  base: "/vbot-document-web/",
+  base: "/vbot-documentation/",
   themeConfig: {
     docFooter: {
       prev: "Trang trước",
