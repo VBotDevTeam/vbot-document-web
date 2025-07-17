@@ -10,7 +10,7 @@ export default defineConfig({
       {
         rel: "icon",
         type: "image/png",
-        href: "/vbot-document-web/app-logo.png",
+        href: "/vbot-documentation/app-logo.png",
       },
     ],
   ],
